@@ -1,0 +1,10 @@
+{
+  "name": "nodeshelltwit",
+  "version": "0.0.0",
+  "description": "nodeshelltwit",
+  "main": "app.js",
+  "author": {
+    "name": "sebastian",
+    "email": ""
+  }
+}
